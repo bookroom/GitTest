@@ -29,6 +29,7 @@ public class GitActivity extends AppCompatActivity {
         tv1.setText("GIT1 后来的修改");
         tv1.setText("GIT2的修改");
 
+        //在git1中再添加一句注释
 
     }
 }
