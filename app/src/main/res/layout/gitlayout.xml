@@ -8,5 +8,9 @@
         android:layout_height="100dp"
         android:id="@+id/tv1"
         android:text="湘西"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/git3bn"/>
 
 </LinearLayout>
