@@ -31,5 +31,7 @@ public class GitActivity extends AppCompatActivity {
 
         //在git1中再添加一句注释
 
+        //git中提交
+
     }
 }
