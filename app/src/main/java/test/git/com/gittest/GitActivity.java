@@ -1,12 +1,16 @@
 package test.git.com.gittest;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 public class GitActivity extends AppCompatActivity {
 
     TextView tv1;
+    Button bn;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -14,7 +18,12 @@ public class GitActivity extends AppCompatActivity {
         setContentView(R.layout.gitlayout);
 
         tv1= (TextView) findViewById(R.id.tv1);
-
-
+        bn= (Button) findViewById(R.id.git3bn);
+        bn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tv1.setText("GIT3");
+            }
+        });
     }
 }
