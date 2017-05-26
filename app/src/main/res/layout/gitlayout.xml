@@ -12,5 +12,9 @@
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:id="@+id/git3bn"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/git3tv2"/>
 
 </LinearLayout>

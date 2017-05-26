@@ -10,7 +10,7 @@ public class GitActivity extends AppCompatActivity {
 
     TextView tv1;
     Button bn;
-
+    TextView tv2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,5 +25,7 @@ public class GitActivity extends AppCompatActivity {
                 tv1.setText("GIT3");
             }
         });
+        tv2= (TextView) findViewById(R.id.git3tv2);
+
     }
 }
