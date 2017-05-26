@@ -29,8 +29,7 @@ public class GitActivity extends AppCompatActivity {
         });
         tv2= (TextView) findViewById(R.id.git3tv2);
         tv3= (TextView) findViewById(R.id.git3tv3);
-
-        tv3= (TextView) findViewById(R.id.git3tv3);
+        tv3.setText("play/gittest/jiaru");
 
     }
 }

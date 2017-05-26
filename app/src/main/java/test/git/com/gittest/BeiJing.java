@@ -7,4 +7,5 @@ package test.git.com.gittest;
 public class BeiJing {
 
     //这是一个测试类
+    //多加一个句话
 }
