@@ -15,7 +15,6 @@ public class GitActivity extends AppCompatActivity {
 
     //提交一次
     //提交二次
-    //提交三次
 
 
     @Override
