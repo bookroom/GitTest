@@ -7,6 +7,7 @@ import android.widget.TextView;
 public class GitActivity extends AppCompatActivity {
 
     TextView tv1;
+    //这里是git2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
