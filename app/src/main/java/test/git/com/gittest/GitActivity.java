@@ -9,6 +9,8 @@ public class GitActivity extends AppCompatActivity {
     TextView tv1;
     //这里是git2
 
+    //这里是git2 的第二次修改
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
