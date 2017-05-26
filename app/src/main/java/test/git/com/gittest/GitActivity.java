@@ -15,10 +15,8 @@ public class GitActivity extends AppCompatActivity {
 
     //提交一次
     //提交二次
-<<<<<<< HEAD
-=======
     //提交三次
->>>>>>> parent of e172791... git3 通过amend尝试修改提交4的信息
+    //提交四次
 
 
     @Override
