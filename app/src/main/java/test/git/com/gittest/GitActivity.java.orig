@@ -23,9 +23,9 @@ public class GitActivity extends AppCompatActivity {
     //提交8次
 <<<<<<< HEAD
 =======
-    //提交9次
+    //提交9变11次
+>>>>>>> 4a0ff97... 9变11
     //提交10次
->>>>>>> e92082b... 10
 
 
     @Override
