@@ -20,7 +20,12 @@ public class GitActivity extends AppCompatActivity {
     //提交五次
     //提交六次
     //提交七次
-    //提交8次
+
+<<<<<<< HEAD
+=======
+    //提交9次
+>>>>>>> 794b206978d04165ff50dbb9d39202e19c84941c
+    //提交10次
 
 
     @Override
